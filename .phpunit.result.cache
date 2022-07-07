@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\GameTest::testStart":4,"BlackJack\\Tests\\GameTest::testStart":4,"BlackJ\\Tests\\PlayerTest::testStart":5},"times":{"Tests\\GameTest::testStart":0.024,"BlackJack\\Tests\\GameTest::testStart":0.049,"BlackJ\\Tests\\GameTest::testStart":0.022,"BlackJ\\Tests\\PlayerTest::testStart":0}}
